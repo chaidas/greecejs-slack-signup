@@ -4,6 +4,6 @@ A form (with Recaptcha) to invite interested users to the
 slack group.
 
 # Notes
-- User reCatpcha v2 (ask this repo's owner for admin access if needed)
+- Uses reCatpcha v2
 - Boostrap v4 loaded minified over CDN
 - Logo inline in compressed SVG format (via svgomg)
