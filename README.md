@@ -7,3 +7,4 @@ slack group.
 - Uses reCatpcha v2
 - Boostrap v4 loaded minified over CDN
 - Logo inline in compressed SVG format (via svgomg)
+- Connected to Netlify: https://thirsty-mayer-c8c81d.netlify.com/slack-invite.html
